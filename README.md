@@ -1,2 +1,2 @@
 # company
-about company / created laravel
+about company / used laravel, validation , bootstrap, 
